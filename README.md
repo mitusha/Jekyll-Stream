@@ -16,13 +16,15 @@ I've created this repo to show what I'm going to be starting with. It's all pret
 
 I'll be using the following while building:
 
-* [Sublime Text 2](http://www.sublimetext.com/2) - Cobalt theme
-* [SASS](http://sass-lang.com/)
-* [Jekyll](http://jekyllrb.com/)
-* Chrome
+* MacBook Pro
+* [Sublime Text 2](http://www.sublimetext.com/2) - Cobalt theme.
+* [SASS](http://sass-lang.com/).
+* [Jekyll](http://jekyllrb.com/).
+* [Chrome](https://www.google.com/intl/en/chrome/browser/).
 * Terminal
-* Spotify
-* UStream
+* [Spotify](http://www.spotify.com/)
+
+Streaming via [USTREAM](http://www.ustream.tv/).
 
 Not sure if I'll use these, but they may pop up:
 
