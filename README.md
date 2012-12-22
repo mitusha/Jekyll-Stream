@@ -21,14 +21,14 @@ I'll be using the following while building:
 * [SASS](http://sass-lang.com/).
 * [Jekyll](http://jekyllrb.com/).
 * [Chrome](https://www.google.com/intl/en/chrome/browser/).
-* Terminal
-* [Spotify](http://www.spotify.com/)
+* Terminal.
+* [Spotify](http://www.spotify.com/).
 
 Streaming via [USTREAM](http://www.ustream.tv/).
 
 Not sure if I'll use these, but they may pop up:
 
-* Photoshop CS6
-* GitHub
+* Photoshop CS6.
+* GitHub.
 
 If you tune in and want to ask something, your best bet would be via [Twitter](http://twitter.com/adamwhitcroft) rather than UStream's chat window.
