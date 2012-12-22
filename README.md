@@ -11,3 +11,22 @@ There's been a fair amount of talk about [Jekyll](http://jekyllrb.com/) in my [f
 The lack of any sort of time restriction in the past is probably what's most to blame for me not getting this rebuild done sooner. A few people watching me fumble my way through the process should be a pretty good motivational tool.
 
 I've created this repo to show what I'm going to be starting with. It's all pretty basic. The posts I'd like to keep have been converted to Markdown beforehand as no-one wants to watch me do that.
+
+##Tools
+
+I'll be using the following while building:
+
+* [Sublime Text 2](http://www.sublimetext.com/2) - Cobalt theme
+* [SASS](http://sass-lang.com/)
+* [Jekyll](http://jekyllrb.com/)
+* Chrome
+* Terminal
+* Spotify
+* UStream
+
+Not sure if I'll use these, but they may pop up:
+
+* Photoshop CS6
+* GitHub
+
+If you tune in and want to ask something, your best bet would be via [Twitter](http://twitter.com/adamwhitcroft) rather than UStream's chat window.
