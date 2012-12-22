@@ -10,6 +10,4 @@ There's been a fair amount of talk about [Jekyll](http://jekyllrb.com/) in my [f
 
 The lack of any sort of time restriction in the past is probably what's most to blame for me not getting this rebuild done sooner. A few people watching me fumble my way through the process should be a pretty good motivational tool.
 
-##Any restrictions?
-
 I've created this repo to show what I'm going to be starting with. It's all pretty basic. The posts I'd like to keep have been converted to Markdown beforehand as no-one wants to watch me do that.
